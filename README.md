@@ -10,7 +10,7 @@ Example: Datatype variableName(in camelCase) = value;  <br>
 Non-primitive variable are objects.
  
 public class Originals { <br>
-   publi String areYOu;  <br>
+   public String areYOu;  <br>
 }
 
 To create an object first declare a reference variable
